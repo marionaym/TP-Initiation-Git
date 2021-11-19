@@ -20,6 +20,8 @@ public class Main {
         // TODO code application logic here
         
         //Salut Marion Aymard
+        int you = 0;
+        System.out.println("je crée un conflit youou");
     }
     
 }
