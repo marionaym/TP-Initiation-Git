@@ -25,7 +25,7 @@ public class Main {
         
         //Modification wiame
         
-        System.out.println("conflit fjebhazulj");
+        System.out.println("conflit fjebh");
     }
 
     }
